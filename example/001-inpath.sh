@@ -2,6 +2,7 @@
 # inpath -verify that a specified program is either vaild as-is
 #	or can be found in the PATH directory list.
 
+
 in_path()
 {
   # given a command and the PATH, try to find the command. Returns
